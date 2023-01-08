@@ -1,0 +1,25 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cgi (0.3.6)
+    erb (4.0.2)
+      cgi (>= 0.3.3)
+    kramdown (2.4.0)
+      rexml
+    rake (13.0.6)
+    rexml (3.2.5)
+    ruby-progressbar (1.11.0)
+    zeitwerk (2.6.6)
+
+PLATFORMS
+  arm64-darwin-22
+
+DEPENDENCIES
+  erb (~> 4.0)
+  kramdown (~> 2.4)
+  rake (~> 13.0)
+  ruby-progressbar (~> 1.11)
+  zeitwerk (~> 2.6)
+
+BUNDLED WITH
+   2.4.1
